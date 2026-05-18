@@ -92,6 +92,3 @@ Shashank Reddy Peta
 M.S. Computer Science, University of South Florida  
 shashankreddypeta@usf.edu
 TAMPA, FLORIDA
-
-## Status
-Active development
