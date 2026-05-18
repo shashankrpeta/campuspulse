@@ -84,7 +84,6 @@ python run_pipeline.py
 - scikit-learn (GradientBoostingClassifier)
 - SQLAlchemy + SQLite / PostgreSQL
 - Streamlit + Plotly
-
 ---
 
 ## Author
@@ -92,3 +91,4 @@ python run_pipeline.py
 Shashank Reddy Peta  
 M.S. Computer Science, University of South Florida  
 shashankreddypeta@usf.edu
+TAMPA, FLORIDA
