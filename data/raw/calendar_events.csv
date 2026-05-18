@@ -1,0 +1,180 @@
+event_id,event_type,title,date,start_time,duration_minutes
+EVT0001,class,Data Structures & Algorithms,2025-01-13,10:00,75
+EVT0002,class,Data Networks & Security,2025-01-13,10:00,75
+EVT0003,club,ACM Student Chapter,2025-01-13,17:00,60
+EVT0004,class,Operating Systems,2025-01-14,13:00,75
+EVT0005,class,Affective Computing,2025-01-14,13:00,75
+EVT0006,class,Data Structures & Algorithms,2025-01-15,10:00,75
+EVT0007,class,Data Networks & Security,2025-01-15,10:00,75
+EVT0008,class,Database Systems,2025-01-15,10:00,75
+EVT0009,class,Operating Systems,2025-01-16,13:00,75
+EVT0010,class,Affective Computing,2025-01-16,13:00,75
+EVT0011,office_hours,Data Networks & Security,2025-01-16,15:00,30
+EVT0012,class,Database Systems,2025-01-17,10:00,75
+EVT0013,class,Data Structures & Algorithms,2025-01-20,10:00,75
+EVT0014,class,Data Networks & Security,2025-01-20,10:00,75
+EVT0015,class,Operating Systems,2025-01-21,13:00,75
+EVT0016,class,Affective Computing,2025-01-21,13:00,75
+EVT0017,office_hours,Operating Systems,2025-01-21,15:00,30
+EVT0018,class,Data Structures & Algorithms,2025-01-22,10:00,75
+EVT0019,class,Data Networks & Security,2025-01-22,10:00,75
+EVT0020,class,Database Systems,2025-01-22,10:00,75
+EVT0021,class,Operating Systems,2025-01-23,13:00,75
+EVT0022,class,Affective Computing,2025-01-23,13:00,75
+EVT0023,class,Database Systems,2025-01-24,10:00,75
+EVT0024,class,Data Structures & Algorithms,2025-01-27,10:00,75
+EVT0025,class,Data Networks & Security,2025-01-27,10:00,75
+EVT0026,club,ACM Student Chapter,2025-01-27,17:00,60
+EVT0027,class,Operating Systems,2025-01-28,13:00,75
+EVT0028,class,Affective Computing,2025-01-28,13:00,75
+EVT0029,class,Data Structures & Algorithms,2025-01-29,10:00,75
+EVT0030,class,Data Networks & Security,2025-01-29,10:00,75
+EVT0031,class,Database Systems,2025-01-29,10:00,75
+EVT0032,class,Operating Systems,2025-01-30,13:00,75
+EVT0033,class,Affective Computing,2025-01-30,13:00,75
+EVT0034,class,Database Systems,2025-01-31,10:00,75
+EVT0035,class,Data Structures & Algorithms,2025-02-03,10:00,75
+EVT0036,class,Data Networks & Security,2025-02-03,10:00,75
+EVT0037,class,Operating Systems,2025-02-04,13:00,75
+EVT0038,class,Affective Computing,2025-02-04,13:00,75
+EVT0039,office_hours,Affective Computing,2025-02-04,15:00,30
+EVT0040,class,Data Structures & Algorithms,2025-02-05,10:00,75
+EVT0041,class,Data Networks & Security,2025-02-05,10:00,75
+EVT0042,class,Database Systems,2025-02-05,10:00,75
+EVT0043,class,Operating Systems,2025-02-06,13:00,75
+EVT0044,class,Affective Computing,2025-02-06,13:00,75
+EVT0045,office_hours,Data Structures & Algorithms,2025-02-06,15:00,30
+EVT0046,class,Database Systems,2025-02-07,10:00,75
+EVT0047,class,Data Structures & Algorithms,2025-02-10,10:00,75
+EVT0048,class,Data Networks & Security,2025-02-10,10:00,75
+EVT0049,club,ACM Student Chapter,2025-02-10,17:00,60
+EVT0050,class,Operating Systems,2025-02-11,13:00,75
+EVT0051,class,Affective Computing,2025-02-11,13:00,75
+EVT0052,office_hours,Database Systems,2025-02-11,15:00,30
+EVT0053,class,Data Structures & Algorithms,2025-02-12,10:00,75
+EVT0054,class,Data Networks & Security,2025-02-12,10:00,75
+EVT0055,class,Database Systems,2025-02-12,10:00,75
+EVT0056,class,Operating Systems,2025-02-13,13:00,75
+EVT0057,class,Affective Computing,2025-02-13,13:00,75
+EVT0058,class,Database Systems,2025-02-14,10:00,75
+EVT0059,class,Data Structures & Algorithms,2025-02-17,10:00,75
+EVT0060,class,Data Networks & Security,2025-02-17,10:00,75
+EVT0061,class,Operating Systems,2025-02-18,13:00,75
+EVT0062,class,Affective Computing,2025-02-18,13:00,75
+EVT0063,class,Data Structures & Algorithms,2025-02-19,10:00,75
+EVT0064,class,Data Networks & Security,2025-02-19,10:00,75
+EVT0065,class,Database Systems,2025-02-19,10:00,75
+EVT0066,class,Operating Systems,2025-02-20,13:00,75
+EVT0067,class,Affective Computing,2025-02-20,13:00,75
+EVT0068,class,Database Systems,2025-02-21,10:00,75
+EVT0069,class,Data Structures & Algorithms,2025-02-24,10:00,75
+EVT0070,class,Data Networks & Security,2025-02-24,10:00,75
+EVT0071,club,ACM Student Chapter,2025-02-24,17:00,60
+EVT0072,class,Operating Systems,2025-02-25,13:00,75
+EVT0073,class,Affective Computing,2025-02-25,13:00,75
+EVT0074,class,Data Structures & Algorithms,2025-02-26,10:00,75
+EVT0075,class,Data Networks & Security,2025-02-26,10:00,75
+EVT0076,class,Database Systems,2025-02-26,10:00,75
+EVT0077,class,Operating Systems,2025-02-27,13:00,75
+EVT0078,class,Affective Computing,2025-02-27,13:00,75
+EVT0079,class,Database Systems,2025-02-28,10:00,75
+EVT0080,class,Data Structures & Algorithms,2025-03-03,10:00,75
+EVT0081,class,Data Networks & Security,2025-03-03,10:00,75
+EVT0082,class,Operating Systems,2025-03-04,13:00,75
+EVT0083,class,Affective Computing,2025-03-04,13:00,75
+EVT0084,class,Data Structures & Algorithms,2025-03-05,10:00,75
+EVT0085,class,Data Networks & Security,2025-03-05,10:00,75
+EVT0086,class,Database Systems,2025-03-05,10:00,75
+EVT0087,class,Operating Systems,2025-03-06,13:00,75
+EVT0088,class,Affective Computing,2025-03-06,13:00,75
+EVT0089,office_hours,Data Structures & Algorithms,2025-03-06,15:00,30
+EVT0090,class,Database Systems,2025-03-07,10:00,75
+EVT0091,class,Data Structures & Algorithms,2025-03-10,10:00,75
+EVT0092,class,Data Networks & Security,2025-03-10,10:00,75
+EVT0093,club,ACM Student Chapter,2025-03-10,17:00,60
+EVT0094,class,Operating Systems,2025-03-11,13:00,75
+EVT0095,class,Affective Computing,2025-03-11,13:00,75
+EVT0096,class,Data Structures & Algorithms,2025-03-12,10:00,75
+EVT0097,class,Data Networks & Security,2025-03-12,10:00,75
+EVT0098,class,Database Systems,2025-03-12,10:00,75
+EVT0099,class,Operating Systems,2025-03-13,13:00,75
+EVT0100,class,Affective Computing,2025-03-13,13:00,75
+EVT0101,office_hours,Affective Computing,2025-03-13,15:00,30
+EVT0102,class,Database Systems,2025-03-14,10:00,75
+EVT0103,class,Data Structures & Algorithms,2025-03-17,10:00,75
+EVT0104,class,Data Networks & Security,2025-03-17,10:00,75
+EVT0105,class,Operating Systems,2025-03-18,13:00,75
+EVT0106,class,Affective Computing,2025-03-18,13:00,75
+EVT0107,office_hours,Operating Systems,2025-03-18,15:00,30
+EVT0108,class,Data Structures & Algorithms,2025-03-19,10:00,75
+EVT0109,class,Data Networks & Security,2025-03-19,10:00,75
+EVT0110,class,Database Systems,2025-03-19,10:00,75
+EVT0111,class,Operating Systems,2025-03-20,13:00,75
+EVT0112,class,Affective Computing,2025-03-20,13:00,75
+EVT0113,office_hours,Data Networks & Security,2025-03-20,15:00,30
+EVT0114,class,Database Systems,2025-03-21,10:00,75
+EVT0115,class,Data Structures & Algorithms,2025-03-24,10:00,75
+EVT0116,class,Data Networks & Security,2025-03-24,10:00,75
+EVT0117,club,ACM Student Chapter,2025-03-24,17:00,60
+EVT0118,class,Operating Systems,2025-03-25,13:00,75
+EVT0119,class,Affective Computing,2025-03-25,13:00,75
+EVT0120,office_hours,Affective Computing,2025-03-25,15:00,30
+EVT0121,class,Data Structures & Algorithms,2025-03-26,10:00,75
+EVT0122,class,Data Networks & Security,2025-03-26,10:00,75
+EVT0123,class,Database Systems,2025-03-26,10:00,75
+EVT0124,class,Operating Systems,2025-03-27,13:00,75
+EVT0125,class,Affective Computing,2025-03-27,13:00,75
+EVT0126,office_hours,Data Networks & Security,2025-03-27,15:00,30
+EVT0127,class,Database Systems,2025-03-28,10:00,75
+EVT0128,class,Data Structures & Algorithms,2025-03-31,10:00,75
+EVT0129,class,Data Networks & Security,2025-03-31,10:00,75
+EVT0130,class,Operating Systems,2025-04-01,13:00,75
+EVT0131,class,Affective Computing,2025-04-01,13:00,75
+EVT0132,class,Data Structures & Algorithms,2025-04-02,10:00,75
+EVT0133,class,Data Networks & Security,2025-04-02,10:00,75
+EVT0134,class,Database Systems,2025-04-02,10:00,75
+EVT0135,class,Operating Systems,2025-04-03,13:00,75
+EVT0136,class,Affective Computing,2025-04-03,13:00,75
+EVT0137,class,Database Systems,2025-04-04,10:00,75
+EVT0138,class,Data Structures & Algorithms,2025-04-07,10:00,75
+EVT0139,class,Data Networks & Security,2025-04-07,10:00,75
+EVT0140,club,ACM Student Chapter,2025-04-07,17:00,60
+EVT0141,class,Operating Systems,2025-04-08,13:00,75
+EVT0142,class,Affective Computing,2025-04-08,13:00,75
+EVT0143,class,Data Structures & Algorithms,2025-04-09,10:00,75
+EVT0144,class,Data Networks & Security,2025-04-09,10:00,75
+EVT0145,class,Database Systems,2025-04-09,10:00,75
+EVT0146,class,Operating Systems,2025-04-10,13:00,75
+EVT0147,class,Affective Computing,2025-04-10,13:00,75
+EVT0148,class,Database Systems,2025-04-11,10:00,75
+EVT0149,class,Data Structures & Algorithms,2025-04-14,10:00,75
+EVT0150,class,Data Networks & Security,2025-04-14,10:00,75
+EVT0151,class,Operating Systems,2025-04-15,13:00,75
+EVT0152,class,Affective Computing,2025-04-15,13:00,75
+EVT0153,class,Data Structures & Algorithms,2025-04-16,10:00,75
+EVT0154,class,Data Networks & Security,2025-04-16,10:00,75
+EVT0155,class,Database Systems,2025-04-16,10:00,75
+EVT0156,class,Operating Systems,2025-04-17,13:00,75
+EVT0157,class,Affective Computing,2025-04-17,13:00,75
+EVT0158,class,Database Systems,2025-04-18,10:00,75
+EVT0159,class,Data Structures & Algorithms,2025-04-21,10:00,75
+EVT0160,class,Data Networks & Security,2025-04-21,10:00,75
+EVT0161,club,ACM Student Chapter,2025-04-21,17:00,60
+EVT0162,class,Operating Systems,2025-04-22,13:00,75
+EVT0163,class,Affective Computing,2025-04-22,13:00,75
+EVT0164,class,Data Structures & Algorithms,2025-04-23,10:00,75
+EVT0165,class,Data Networks & Security,2025-04-23,10:00,75
+EVT0166,class,Database Systems,2025-04-23,10:00,75
+EVT0167,class,Operating Systems,2025-04-24,13:00,75
+EVT0168,class,Affective Computing,2025-04-24,13:00,75
+EVT0169,class,Database Systems,2025-04-25,10:00,75
+EVT0170,class,Data Structures & Algorithms,2025-04-28,10:00,75
+EVT0171,class,Data Networks & Security,2025-04-28,10:00,75
+EVT0172,class,Operating Systems,2025-04-29,13:00,75
+EVT0173,class,Affective Computing,2025-04-29,13:00,75
+EVT0174,class,Data Structures & Algorithms,2025-04-30,10:00,75
+EVT0175,class,Data Networks & Security,2025-04-30,10:00,75
+EVT0176,class,Database Systems,2025-04-30,10:00,75
+EVT0177,class,Operating Systems,2025-05-01,13:00,75
+EVT0178,class,Affective Computing,2025-05-01,13:00,75
+EVT0179,class,Database Systems,2025-05-02,10:00,75

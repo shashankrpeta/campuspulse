@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+data/campuspulse.db
+data/processed/model.pkl
+data/processed/metrics.json
+.env
+.DS_Store

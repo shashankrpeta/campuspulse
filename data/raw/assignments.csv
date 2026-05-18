@@ -1,0 +1,101 @@
+assignment_id,course,type,title,due_date,estimated_hours,submitted
+ASGN0001,Data Structures & Algorithms,Homework,Data Structures & Algorithms - Homework 2,2025-01-24,3.7,1
+ASGN0002,Data Structures & Algorithms,Homework,Data Structures & Algorithms - Homework 3,2025-01-31,4.1,1
+ASGN0003,Data Structures & Algorithms,Homework,Data Structures & Algorithms - Homework 4,2025-02-07,2.1,1
+ASGN0004,Data Structures & Algorithms,Homework,Data Structures & Algorithms - Homework 5,2025-02-14,2.7,1
+ASGN0005,Data Structures & Algorithms,Homework,Data Structures & Algorithms - Homework 6,2025-02-21,2.9,1
+ASGN0006,Data Structures & Algorithms,Homework,Data Structures & Algorithms - Homework 8,2025-03-07,2.2,1
+ASGN0007,Data Structures & Algorithms,Homework,Data Structures & Algorithms - Homework 10,2025-03-21,2.7,1
+ASGN0008,Data Structures & Algorithms,Homework,Data Structures & Algorithms - Homework 11,2025-03-28,2.3,1
+ASGN0009,Data Structures & Algorithms,Homework,Data Structures & Algorithms - Homework 12,2025-04-04,2.8,1
+ASGN0010,Data Structures & Algorithms,Quiz,Data Structures & Algorithms - Quiz 2,2025-01-24,2.0,1
+ASGN0011,Data Structures & Algorithms,Quiz,Data Structures & Algorithms - Quiz 4,2025-02-07,1.5,1
+ASGN0012,Data Structures & Algorithms,Quiz,Data Structures & Algorithms - Quiz 6,2025-02-21,1.6,1
+ASGN0013,Data Structures & Algorithms,Quiz,Data Structures & Algorithms - Quiz 8,2025-03-07,1.3,1
+ASGN0014,Data Structures & Algorithms,Quiz,Data Structures & Algorithms - Quiz 10,2025-03-21,1.4,1
+ASGN0015,Data Structures & Algorithms,Quiz,Data Structures & Algorithms - Quiz 12,2025-04-04,2.4,1
+ASGN0016,Data Structures & Algorithms,Project,Data Structures & Algorithms - Project 5,2025-02-14,15.8,1
+ASGN0017,Data Structures & Algorithms,Project,Data Structures & Algorithms - Project 9,2025-03-14,15.3,1
+ASGN0018,Data Structures & Algorithms,Project,Data Structures & Algorithms - Project 13,2025-04-11,10.1,1
+ASGN0019,Data Structures & Algorithms,Midterm,Data Structures & Algorithms - Midterm 7,2025-02-28,8.6,1
+ASGN0020,Data Structures & Algorithms,Final Exam,Data Structures & Algorithms - Final Exam 15,2025-04-25,9.1,1
+ASGN0021,Operating Systems,Homework,Operating Systems - Homework 2,2025-01-24,3.1,1
+ASGN0022,Operating Systems,Homework,Operating Systems - Homework 3,2025-01-31,5.0,1
+ASGN0023,Operating Systems,Homework,Operating Systems - Homework 4,2025-02-07,3.9,1
+ASGN0024,Operating Systems,Homework,Operating Systems - Homework 5,2025-02-14,3.7,1
+ASGN0025,Operating Systems,Homework,Operating Systems - Homework 6,2025-02-21,4.1,1
+ASGN0026,Operating Systems,Homework,Operating Systems - Homework 8,2025-03-07,4.5,1
+ASGN0027,Operating Systems,Homework,Operating Systems - Homework 10,2025-03-21,4.3,1
+ASGN0028,Operating Systems,Homework,Operating Systems - Homework 11,2025-03-28,2.7,1
+ASGN0029,Operating Systems,Homework,Operating Systems - Homework 12,2025-04-04,2.1,1
+ASGN0030,Operating Systems,Quiz,Operating Systems - Quiz 2,2025-01-24,1.5,1
+ASGN0031,Operating Systems,Quiz,Operating Systems - Quiz 4,2025-02-07,1.4,1
+ASGN0032,Operating Systems,Quiz,Operating Systems - Quiz 6,2025-02-21,1.3,1
+ASGN0033,Operating Systems,Quiz,Operating Systems - Quiz 8,2025-03-07,2.4,1
+ASGN0034,Operating Systems,Quiz,Operating Systems - Quiz 10,2025-03-21,2.3,1
+ASGN0035,Operating Systems,Quiz,Operating Systems - Quiz 12,2025-04-04,1.5,1
+ASGN0036,Operating Systems,Project,Operating Systems - Project 5,2025-02-14,15.9,1
+ASGN0037,Operating Systems,Project,Operating Systems - Project 9,2025-03-14,12.7,1
+ASGN0038,Operating Systems,Project,Operating Systems - Project 13,2025-04-11,19.0,1
+ASGN0039,Operating Systems,Midterm,Operating Systems - Midterm 7,2025-02-28,7.3,1
+ASGN0040,Operating Systems,Final Exam,Operating Systems - Final Exam 15,2025-04-25,9.9,1
+ASGN0041,Data Networks & Security,Homework,Data Networks & Security - Homework 2,2025-01-24,2.7,1
+ASGN0042,Data Networks & Security,Homework,Data Networks & Security - Homework 3,2025-01-31,3.7,1
+ASGN0043,Data Networks & Security,Homework,Data Networks & Security - Homework 4,2025-02-07,2.8,1
+ASGN0044,Data Networks & Security,Homework,Data Networks & Security - Homework 5,2025-02-14,3.8,1
+ASGN0045,Data Networks & Security,Homework,Data Networks & Security - Homework 6,2025-02-21,4.7,1
+ASGN0046,Data Networks & Security,Homework,Data Networks & Security - Homework 8,2025-03-07,3.2,1
+ASGN0047,Data Networks & Security,Homework,Data Networks & Security - Homework 10,2025-03-21,2.7,1
+ASGN0048,Data Networks & Security,Homework,Data Networks & Security - Homework 11,2025-03-28,5.0,1
+ASGN0049,Data Networks & Security,Homework,Data Networks & Security - Homework 12,2025-04-04,3.5,1
+ASGN0050,Data Networks & Security,Quiz,Data Networks & Security - Quiz 2,2025-01-24,1.1,1
+ASGN0051,Data Networks & Security,Quiz,Data Networks & Security - Quiz 4,2025-02-07,1.1,1
+ASGN0052,Data Networks & Security,Quiz,Data Networks & Security - Quiz 6,2025-02-21,1.2,1
+ASGN0053,Data Networks & Security,Quiz,Data Networks & Security - Quiz 8,2025-03-07,1.9,1
+ASGN0054,Data Networks & Security,Quiz,Data Networks & Security - Quiz 10,2025-03-21,2.2,1
+ASGN0055,Data Networks & Security,Quiz,Data Networks & Security - Quiz 12,2025-04-04,1.6,1
+ASGN0056,Data Networks & Security,Project,Data Networks & Security - Project 5,2025-02-14,8.8,1
+ASGN0057,Data Networks & Security,Project,Data Networks & Security - Project 9,2025-03-14,12.6,1
+ASGN0058,Data Networks & Security,Project,Data Networks & Security - Project 13,2025-04-11,20.0,1
+ASGN0059,Data Networks & Security,Midterm,Data Networks & Security - Midterm 7,2025-02-28,7.6,1
+ASGN0060,Data Networks & Security,Final Exam,Data Networks & Security - Final Exam 15,2025-04-25,14.8,1
+ASGN0061,Affective Computing,Homework,Affective Computing - Homework 2,2025-01-24,4.6,1
+ASGN0062,Affective Computing,Homework,Affective Computing - Homework 3,2025-01-31,2.0,1
+ASGN0063,Affective Computing,Homework,Affective Computing - Homework 4,2025-02-07,4.2,1
+ASGN0064,Affective Computing,Homework,Affective Computing - Homework 5,2025-02-14,4.0,1
+ASGN0065,Affective Computing,Homework,Affective Computing - Homework 6,2025-02-21,3.6,1
+ASGN0066,Affective Computing,Homework,Affective Computing - Homework 8,2025-03-07,2.8,1
+ASGN0067,Affective Computing,Homework,Affective Computing - Homework 10,2025-03-21,3.9,1
+ASGN0068,Affective Computing,Homework,Affective Computing - Homework 11,2025-03-28,2.3,1
+ASGN0069,Affective Computing,Homework,Affective Computing - Homework 12,2025-04-04,3.3,1
+ASGN0070,Affective Computing,Quiz,Affective Computing - Quiz 2,2025-01-24,1.7,1
+ASGN0071,Affective Computing,Quiz,Affective Computing - Quiz 4,2025-02-07,2.4,1
+ASGN0072,Affective Computing,Quiz,Affective Computing - Quiz 6,2025-02-21,2.3,1
+ASGN0073,Affective Computing,Quiz,Affective Computing - Quiz 8,2025-03-07,1.4,1
+ASGN0074,Affective Computing,Quiz,Affective Computing - Quiz 10,2025-03-21,1.8,1
+ASGN0075,Affective Computing,Quiz,Affective Computing - Quiz 12,2025-04-04,1.3,1
+ASGN0076,Affective Computing,Project,Affective Computing - Project 5,2025-02-14,19.0,1
+ASGN0077,Affective Computing,Project,Affective Computing - Project 9,2025-03-14,18.4,1
+ASGN0078,Affective Computing,Project,Affective Computing - Project 13,2025-04-11,11.6,1
+ASGN0079,Affective Computing,Midterm,Affective Computing - Midterm 7,2025-02-28,8.2,1
+ASGN0080,Affective Computing,Final Exam,Affective Computing - Final Exam 15,2025-04-25,12.3,1
+ASGN0081,Database Systems,Homework,Database Systems - Homework 2,2025-01-24,2.5,1
+ASGN0082,Database Systems,Homework,Database Systems - Homework 3,2025-01-31,4.3,1
+ASGN0083,Database Systems,Homework,Database Systems - Homework 4,2025-02-07,3.6,1
+ASGN0084,Database Systems,Homework,Database Systems - Homework 5,2025-02-14,4.3,1
+ASGN0085,Database Systems,Homework,Database Systems - Homework 6,2025-02-21,3.6,1
+ASGN0086,Database Systems,Homework,Database Systems - Homework 8,2025-03-07,2.0,1
+ASGN0087,Database Systems,Homework,Database Systems - Homework 10,2025-03-21,3.0,1
+ASGN0088,Database Systems,Homework,Database Systems - Homework 11,2025-03-28,2.1,1
+ASGN0089,Database Systems,Homework,Database Systems - Homework 12,2025-04-04,4.8,1
+ASGN0090,Database Systems,Quiz,Database Systems - Quiz 2,2025-01-24,2.3,1
+ASGN0091,Database Systems,Quiz,Database Systems - Quiz 4,2025-02-07,2.2,1
+ASGN0092,Database Systems,Quiz,Database Systems - Quiz 6,2025-02-21,1.5,1
+ASGN0093,Database Systems,Quiz,Database Systems - Quiz 8,2025-03-07,1.1,1
+ASGN0094,Database Systems,Quiz,Database Systems - Quiz 10,2025-03-21,2.3,1
+ASGN0095,Database Systems,Quiz,Database Systems - Quiz 12,2025-04-04,2.4,1
+ASGN0096,Database Systems,Project,Database Systems - Project 5,2025-02-14,9.0,1
+ASGN0097,Database Systems,Project,Database Systems - Project 9,2025-03-14,13.8,1
+ASGN0098,Database Systems,Project,Database Systems - Project 13,2025-04-11,8.8,1
+ASGN0099,Database Systems,Midterm,Database Systems - Midterm 7,2025-02-28,8.8,1
+ASGN0100,Database Systems,Final Exam,Database Systems - Final Exam 15,2025-04-25,13.4,1
